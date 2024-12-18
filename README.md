@@ -1,1 +1,1 @@
-# HEATER-BOTTLE
+People cannot find hot water while travelling long distance. Even they use flask it only stores the hot water till it gets emptied. Many patients are suffering without getting hot water after their flask gets emptied. Mostly our product will help tourists, socialist, patients etc..
